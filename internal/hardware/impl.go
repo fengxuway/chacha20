@@ -16,7 +16,7 @@
 // Package hardware provides the hardware accelerated ChaCha20 implementations.
 package hardware
 
-import "github.com/fengxuway/chacha20.git/internal/api"
+import "github.com/fengxuway/chacha20/internal/api"
 
 var hardwareImpls []api.Implementation
 
